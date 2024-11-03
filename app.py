@@ -54,7 +54,7 @@ def load_content(site_url):
     return ''.join(doc.page_content for doc in documents) # Joins the content into a single string
 
 # User interface with Streamlit
-st.title('VeritAI - Chat with Web')  # Sets the application title
+st.title('🌐VeritAI - Chat with Web')  # Sets the application title
 
 # Input field for the user to provide the website URL to load
 site_url = st.text_input("Enter the website URL to retrieve information:", value="https://murilokrominski.github.io/autor.htm")

@@ -3,7 +3,7 @@
 to; height: auto;">
 </a>
 
-# VeritAI-Chat-with-Web
+# VeritAI - Chat with Web
 <br>
 By <a href="https://murilokrominski.github.io/autor.htm">Murilo Krominski</a>.
  
